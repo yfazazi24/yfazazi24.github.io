@@ -2,66 +2,71 @@
 # Yasmine Fazazi
 
 Wooster OH 44691 | yfazazi24@wooster.edu | 330-462-9408 | [LinkedIn: Yasmine Fazazi](#)
+---
 
-## Education
+## Skills  
+- **AI & Machine Learning:** AI Integration & Strategy, Generative AI, Multi-agent Systems, Prompt Engineering  
+- **Data & Document Processing:** OCR, Retrieval-Augmented Generation (RAG), Data Analysis & Normalization  
+- **Technical Skills:** Software Development, Python, SQL, R, C/C++, Dart, Web Searching/Scraping  
+- **Project Management & Leadership:** Teamwork, Problem Solving, Innovation, Presentation & Communication  
+- **Design:** UI/UX, Figma, Adobe Illustrator, Azure, HTML, CSS | **Languages:** English, French, Arabic  
 
-**The College of Wooster, Wooster OH**  
-*Graduation: May 2024*  
-**Bachelor of Arts** | Computer Science and Psychology; Data Science minor  
-GPA: 3.943  
-Relevant Courses: UI/UX design, Data structures & algorithms, Algorithm analysis, Imperative problem solving, Introduction to data science, Software Engineering: Databases, Visualizing information
+---
 
-## Hackathon and Technical Projects
+## Relevant Work Experience  
 
-- **2nd team winner at Arab Youth Anti-Corruption Hackathon in Qatar 2023** (hosted by UNODC & Microsoft)
-  - Selected from 1299 applicants amongst 119 accepted participants part of an all-Moroccan team.
-  - Tackled the digitalization of Education challenge using Azure AI technologies to produce an Anti-cheating system.
+**Schneider Electric, Sustainability Business Group, Remote**  
+*Data Science Intern Leader | Full-time | May 2024 – August 2024*  
+- Developed software automating client Q/A through embeddings, vector similarity, GPT queries on Excel documents  
+- Led autonomous agents research: explored and implemented multi-agent frameworks using LlamaIndex, CrewAI  
+- Developed a Location Finder tool using web scraping/searching and retrieval-augmented generation (RAG) techniques  
+- Presented research outcomes and developed software to the VP of Marketing  
+- Mentored and collaborated with fellow students, overseeing project progress as AMRE 2024 leader  
 
-- **Junior Independent Thesis: Mental Health Companion App "Buddy"**  
-  *Spring 2023*
-  - Led the conception of "Buddy," a mental health companion app using Dart and Flutter in Android Studio.
-  - Created an engaging user interface while implementing features like To-Do List, Daily Care, and Journaling, elevating emotional well-being and encouraging self-growth.
+*Data Science Intern | Part-time | September 2023 – Present*  
+- Strategized AI integration in public sectors: led brainstorming sessions and classified 200+ AI use cases  
+- Developed and refined document extraction tools, identifying areas for performance improvements  
+- Standardized energy and gas data for European markets, applying various normalization techniques  
+- Engaged with subject matter experts to align AI applications with market needs  
 
-- **Spotify Billboard data analysis**  
-  *Fall 2022*
-  - Analyzed the Spotify billboard during December 2019 to determine popular genres and influencing factors.
-  - Cleaned the data and created data visualization models to represent different hypotheses using R studio.
+**Applied Methods and Research Experience (AMRE) | Data Science Intern | Full-time | May 2023 – July 2023**  
+- Built a document extraction tool using OCR techniques & GPT models, automating (docs, msg, Excel) data extraction  
+- Investigated and documented prompt engineering techniques to optimize response accuracy across different use cases  
 
-## Relevant Work Experience
+**Aetna, CVS Health, Remote**  
+*Informatics Analyst Intern | May 2022 - July 2022*  
+- Implemented data analytics tables using SQL to create a funnel representing e-commerce performance  
+- Provided visualizations of funnel data using different metrics and dimensions  
 
-**Schneider Electric, Sustainability business group (Remote)**  
-_Data Science Intern~ Full-time_  
-May 2023 – July 2023
-  - Collaborated with a team to develop a program aiming to efficiently extract information from documents using GPT models and through running different experiments.
-  - Explored various prompt engineering techniques and summarized best practices for the most accurate responses.
+**The College of Wooster, Wooster, OH**  
+*Peer Tutor | August 2021 – May 2023*  
+- Supported students from various math levels and backgrounds to understand mathematical concepts  
+- Mentored Freshmen and Sophomores by hosting office hours and assisting with academic registration  
 
-_Data Science Intern~ Part-time_  
-September 2023 – Present
-  - Pursued the development of document extractor programs while identifying areas of improvement.
+*Zone Intern | August 2021 – May 2023*  
+- Facilitated learning as a class advocate and mentor in STEM  
+- Encouraged effective study approaches such as active studying, efficient note-taking, and exam preparation  
 
-**Aetna CVS Health (Remote)**  
-_Informatics Analyst Intern_  
-May 2022 - July 2022
-  - Implemented Data Analytics tables using SQL that were used to create a visual funnel representing the company’s e-commerce performance.
-  - Provided different visualizations of funnel’s data through the use of different metrics and dimensions.
+---
 
-**The College of Wooster, Wooster OH**  
-_Course Design assistant, Digital studies_  
-December 2021 - January 2022
-  - Implemented the design and creation of two course websites using WordPress, HTML, and CSS.
-  - Redesigned a faculty member’s course to facilitate a better user experience for students taking either course.
+## Technical Projects and Hackathons  
 
-**Peer tutor**  
-August 2021 - Present
-  - Support students from different math levels and backgrounds to understand mathematical concepts.
-  - Mentor Freshmen and Sophomores by hosting office hours and assisting with the process of academic registration.
+**Independent Thesis: The Buddy System: Incorporating AI in Mental Health** | *Spring 2024*  
+- Developed Buddy, a mental health mobile app using Dart and Flutter in Android Studio  
+- Integrated Sofia, an AI chatbot companion powered by the Gemini API, providing guidance and support  
+- Conducted an empirical study on AI perceptions, examining mediating and moderating variables  
 
-**Zone Intern**  
-August 2021 - Present
-  - Facilitate the learning process by acting as a class advocate and serving as a mentor.
-  - Encourage effective study approaches such as active studying, efficient note-taking, and exam preparation.
+**2nd Team Winner - Arab Youth Anti-Corruption Hackathon in Qatar, UNODC & Microsoft** | *Sept 2023*  
+- Tackled the digitalization of education challenge using Azure AI computer vision technologies  
+- Developed an anti-cheating system with double camera integration and a proctor-pal chatbot  
 
-## Skills
+**Speaker at the United Nation’s Convention against Corruption (CoSP10) in Atlanta** | *Dec 2023*  
+- Presented the hackathon solution at 3 special events, highlighting the innovative role of young minds in combating corruption through technology  
+- Engaged in discussions on ethical AI use, sharing insights with leaders and innovators from UNODC, UNCAC, ACTA, the GRACE initiative, and ICAC  
 
-**Technical:** Python, R, C/C++, HTML, CSS, SQL, prompt engineering, Figma, Dart, Adobe Illustrator, WordPress  
-**Language:** English, French, Arabic
+---
+
+## Education  
+
+**The College of Wooster:** BA. Arts | Computer Science & Psychology Majors; Data Science Minor | GPA: 3.953  
+**Relevant Courses:** Machine Learning, Data Structures & Algorithms, Algorithm Analysis, UI/UX Design, Imperative Problem Solving, Intro to Entrepreneurship, Software Engineering: Databases, Visualizing Information, Social Psychology  
